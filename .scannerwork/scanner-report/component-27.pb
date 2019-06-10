@@ -1,0 +1,1 @@
+#app/src/main/res/values/strings.xml 2xmlXh

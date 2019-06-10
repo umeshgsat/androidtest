@@ -1,0 +1,1 @@
+%app/src/main/res/layout/note_item.xml 2xmlX"h
